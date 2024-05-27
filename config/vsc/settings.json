@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "id3_process.h": "c",
+        "id3_write.h": "c",
+        "utf.h": "c"
+    }
+}

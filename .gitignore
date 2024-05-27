@@ -1,0 +1,18 @@
+# ignore everything
+*
+
+# but not these...
+!.gitignore
+
+!include/
+!include/**
+
+!source/
+!source/**
+
+!config/
+!config/**
+
+!README.rst
+
+!supported_tags.rst
