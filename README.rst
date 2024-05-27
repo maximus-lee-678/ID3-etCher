@@ -1,6 +1,6 @@
 📝 ID3-etCher
 ==============
-| A simple library that allows for the writing of ID3v2.3 tags to files. Still very much a work-in-progress!
+| A "C"-imple library that allows for the writing of ID3v2.3 tags to files. Still very much a work-in-progress!
 | Follows the ID3v2.3 specification as outlined `here <https://id3.org/id3v2.3.0>`_.
 
 ℹ️ Description
@@ -18,7 +18,7 @@
 
 🏷️ Tags Supported
 ------------------
-See `here<https://id3.org/id3v2.3.0>`_ for more information on each tag.
+See `supported_tags.rst<https://github.com/maximus-lee-678/ID3-etCher/blob/main/supported_tags.rst>`_ for implementation progress.
 
 🚓 Roadmap
 -----------
